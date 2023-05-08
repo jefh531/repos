@@ -1,0 +1,17 @@
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MauiApp1.csproj.AssemblyReference.cache
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.MauiApp1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.MauiApp1.props
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildMultiTargeting.MauiApp1.props
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.MauiApp1.props
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\MauiApp1.styles.css
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\MauiApp1.bundle.scp.css
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\jean-françois\source\repos\MauiApp1\MauiApp1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp

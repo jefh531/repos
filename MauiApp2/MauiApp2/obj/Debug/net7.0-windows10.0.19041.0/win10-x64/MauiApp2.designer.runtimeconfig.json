@@ -1,0 +1,36 @@
+{
+  "runtimeOptions": {
+    "tfm": "net7.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "7.0.5"
+      },
+      {
+        "name": "Microsoft.WindowsDesktop.App",
+        "version": "7.0.5"
+      },
+      {
+        "name": "Microsoft.Maui.Core",
+        "version": "**FromWorkload**"
+      },
+      {
+        "name": "Microsoft.Maui.Controls",
+        "version": "**FromWorkload**"
+      },
+      {
+        "name": "Microsoft.Maui.Essentials",
+        "version": "**FromWorkload**"
+      }
+    ],
+    "additionalProbingPaths": [
+      "C:\\Users\\jean-françois\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jean-françois\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+    ],
+    "configProperties": {
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false,
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
